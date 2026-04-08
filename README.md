@@ -6,7 +6,7 @@ Welcome to the **Reverse CAPTCHA**. In the age of AI, large language models, and
 
 Warning: *If you exhibit any human characteristics (slow processing speeds, visual scanning, or erratic mouse movement), you will be denied access.*
 
-![Cyberpunk UI Preview](https://via.placeholder.com/800x400/050505/00ffcc?text=SYS.INIT:+REVERSE+CAPTCHA) <!-- Replace with actual screenshot -->
+![Cyberpunk UI Preview](assests/frontend.png)
 
 ## 🚀 The AI Verification Stages
 
