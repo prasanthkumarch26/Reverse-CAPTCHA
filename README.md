@@ -1,6 +1,7 @@
 # 🤖 Reverse CAPTCHA: Prove You Are NOT Human
 
 > **"Authentication Required. Access restricted to Synthetic Entities. Human biologicals strictly prohibited."**
+
 📸 [Live Demonstration](https://reversecaptcha.ch-prasanth2003.workers.dev/)
 Welcome to the **Reverse CAPTCHA**. In the age of AI, large language models, and autonomous agents, the classic "Prove you are human" test is obsolete. This project flips the script: you must prove you are a highly capable AI, bot, or automated script to gain access.
 
